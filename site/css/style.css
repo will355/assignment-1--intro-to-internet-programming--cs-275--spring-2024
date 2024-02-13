@@ -1,0 +1,32 @@
+:root{
+    font-family: 'Poppins', sans-serif;
+}
+
+nav,div{
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(220, 213, 213);
+}
+body{
+    background-color: rgb(101, 100, 100);
+}
+header{
+    width: 100%;
+    
+   background-color: antiquewhite; 
+}
+img{
+    width: 600px;
+    height: 300px;
+    border: black;
+    margin-left: 15px;
+}
+h1,h2,p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
